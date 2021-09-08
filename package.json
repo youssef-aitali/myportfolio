@@ -2,9 +2,9 @@
   "name": "myresume",
   "version": "1.0.0",
   "description": "Thanks for downloading this template!",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
