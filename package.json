@@ -4,7 +4,7 @@
   "description": "Thanks for downloading this template!",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d ."
   },
   "author": "",
   "license": "ISC",
